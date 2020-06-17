@@ -1,5 +1,5 @@
 # PyramidsBlending
- Use of image pyramid to blend two images so that it appear to be natural
+ Use of laplacian image pyramid to blend two images so that it appear to be natural
 
 ## Usage
 
